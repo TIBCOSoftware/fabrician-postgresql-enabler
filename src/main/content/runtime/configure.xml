@@ -1,0 +1,5 @@
+<containerConfig>
+    <configFiles baseDir='${CONTAINER_WORK_DIR}' include='postgresql.conf'>
+        <velocity/>
+    </configFiles>
+</containerConfig>

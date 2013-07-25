@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assembly>
+    <id>runtime</id>
+    <baseDirectory></baseDirectory>
+    <formats>
+        <format>tar.gz</format>
+    </formats>
+    <fileSets>
+        <fileSet>
+            <directory>${test.gridlib.dir}/${enabler.gridlib.name}</directory>
+            <outputDirectory/>
+        </fileSet>
+    </fileSets>
+</assembly>
+
