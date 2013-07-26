@@ -1,3 +1,4 @@
+[fabrician.org](http://fabrician.org/)
 ==========================================================================
 PostgreSQL 9.2.4 Server Enabler Guide
 ==========================================================================
@@ -33,7 +34,9 @@ Creating and Installing the Grid Libraries
 * Go to the Silver Fabric Broker's console, select Stacks>Enablers, and click Global Actions>Update Deployment Files. The Enabler should now be in the list.
        
 *****************************************************************************
-NOTE: as of now, only 64-bit linux is supported. 
+NOTE: 
+* As of now, only 64-bit linux is supported. 
+* Building the distribution on Windows will not work.  It will not maintain the symbolic links.
 ******************************************************************************
 
 
