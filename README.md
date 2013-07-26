@@ -37,6 +37,7 @@ Creating and Installing the Grid Libraries
 NOTE: 
 * As of now, only 64-bit linux is supported. 
 * Building the distribution on Windows will not work.  It will not maintain the symbolic links.
+
 ******************************************************************************
 
 
