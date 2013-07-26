@@ -43,7 +43,7 @@ NOTE:
 Runtime Context Variables
 --------------------------------------
 Below are some notable Runtime Context Variables associated with this Enabler.
-Take a look at the container.xml file in the src/main/resources/runtime/ subdirectory
+Take a look at the container.xml file in the src/main/resources/runtime/ subdirectory.
 
  APP_DATA_DIR - path where the database files are located; 
   			NOTE: for persistence across engine hosts, it is recommended you
